@@ -39,6 +39,12 @@ const CRUD = () => {
       age: 34,
       isActive: 0,
     },
+    {
+      id: 3,
+      name: "rohit",
+      age: 34,
+      isActive: 0,
+    },
   ];
   const [data, setData] = useState([]);
 
